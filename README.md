@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jagan Satwik Reddy
+- 👋 Hi, I’m **Jagan Satwik Reddy**
 - 👀 I’m interested in Working with IOT Bots
 - 🌱 I’m currently learning Web dev 
 - 💞️ I’m looking to collaborate on Web Dev Projects
